@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-RUN javac Hangman_CMD.java
+RUN javac HangmanCMD.java
 
-CMD ["java", "Hangman_CMD"]
+CMD ["java", "HangmanCMD"]
