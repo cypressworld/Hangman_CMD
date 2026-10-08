@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public classs HangmanCMD {
+public class HangmanCMD {
     public static void main(String[] args) {
         String word = "KUBERNETES";
         String hidden = "__________";
